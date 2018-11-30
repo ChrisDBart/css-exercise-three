@@ -1,6 +1,6 @@
 body {
   background-color: #333;
-  font-family: Helvetica; sans-serif;
+  font-family: Helvetica, sans-serif;
   font-size: 10px;
 }
 
@@ -37,14 +37,14 @@ nav {
   vertical-align: middle;
 }
 
-h1  {
-  font-family: 'SF Pro' sans-serif;
+.location h1  {
+  font-family: Helvetica, sans-serif;
   font-weight: bold;
   font-size: 19px;
   line-height: 0%;
 }
 
-h3 {
+.location h3 {
   font-size: 13px;
   font-weight: normal;
   line-height: 70%;
