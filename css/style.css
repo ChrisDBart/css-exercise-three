@@ -41,13 +41,13 @@ nav {
   font-family: Helvetica, sans-serif;
   font-weight: bold;
   font-size: 19px;
-  line-height: 0%;
+  line-height: 150%;
 }
 
 .location h3 {
   font-size: 13px;
   font-weight: normal;
-  line-height: 70%;
+  line-height: 150%;
 }
 
 .location {
